@@ -64,3 +64,7 @@ Use this to parse the Safaricom request so that you can use the information ther
 ##### finishTransaction
 
 Use this to generate a response to the Safaricom request.  Please note that if you do not provide a valid response the M-PESA transaction may not go through.
+
+## Credits
+
+This code is inspired by and borrows heavily from [mpesa-php-sdk](https://github.com/safaricom/mpesa-php-sdk).  Please use that if you need a more fully-featured implementation.
